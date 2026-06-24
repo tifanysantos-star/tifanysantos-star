@@ -1,16 +1,19 @@
-## Hi there 👋
+v# Olá, eu sou tifanysantos-star
 
-<!--
-**tifanysantos-star/tifanysantos-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante e estou aprendendo programação.
+eu tenho 14 anos, e faço aniversario dia 09/11
+gosto de comer,amo volêi, gosto de dar risada, amo assistir filme, series, doramas, gosto de sair,amo crianças, i gosto de estar na presença de Deus.
+minha cor favorita é azul, minha fruta preferida é uva e pokan, minha comida favorita é lasanha.
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Objetivos
+pasar de ano, me forma em pedagogia, construir uma familia linda aonde Deus é o centro e dar orgulho para o meus pais.
+	## Uma frase ou citação ou personagem que represente você
+  não desista so por que ta dificil, uma hora passa.
+## Contato
+- E-mail: tifany.batista.santos@escola.pr.gov.pr
